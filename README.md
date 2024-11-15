@@ -11,7 +11,7 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 Program to find the square root for the given number(newton's method) using function.</br>
-Developed by:Suriya Pravin</br>
+Developed by: Kamalesh y</br>
 RegisterNumber : 24004024</br></br>
 i)	# To find the maximum of marks using the list method sort.</br>
 ```Python
